@@ -1,0 +1,8 @@
+private int sum (int a , int b) {
+	
+	if (a+b > Interegr.Max) {
+	throw new RuntimeException("A+B must not be exceeded MAX number") ;
+}
+	return a+b ; 
+
+}
